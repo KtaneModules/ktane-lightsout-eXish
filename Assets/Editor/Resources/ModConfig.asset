@@ -17,7 +17,7 @@ MonoBehaviour:
     the classic handheld puzzle from the 90s, but in needy module form! Switch off
     all of the lights to deactivate the module! It's as simple as that!\r\n\r\n[h1]Manual
     Page[/h1]\r\nThe manual PDF is included in the download. However, you can also
-    [url=https://github.com/eXish/ktane-lightsout/blob/main/Manual/pdfs/NeedyModules/LightsOut.pdf]click
+    [url=https://ktane.timwi.de/HTML/Lights%20Out.html]click
     here[/url] to view it online.\r\n\r\n[h1]Mission Makers[/h1]\r\nFor those making
     custom missions and wanting to reference this module, the type name is [i][b]LightsOut[/b][/i]."
   version: v1.3.2
