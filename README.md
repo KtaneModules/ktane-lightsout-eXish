@@ -1,4 +1,4 @@
-# Lights Out - a KTANEModKit module made by ashthebash
+# Lights Out - a KTANEModKit module by ashthebash
 
 ![Lights Out](https://github.com/Timwi/KtaneContent/blob/master/HTML/img/Component/Lights%20Out.svg "Lights Out")
 
